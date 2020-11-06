@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: Lato;
+}
+.border-box {
+  border: 1px solid lightgrey;
+  height: 300px;
+  position: absolute;
+}
+#shape1 {
+  border: 1px solid black;
+  background-color: #dcdcdc;
+  margin-top: 10px;
+}
+#shape2 {
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 50%;
+}
+#textname {
+  margin-top: 5px;
+}
